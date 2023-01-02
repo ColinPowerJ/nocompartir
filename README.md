@@ -2,6 +2,9 @@
 
 https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt
 
+#EXTINF:-1, 	Ver Avatar El sentido del agua (2022)
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/17dic/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic.mp4
+
 #EXTINF:-1, Black Panther Wakanda Forever 2022
 http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/13DIC/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Cuevana%203%20Pe.mp4
 
