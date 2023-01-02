@@ -2,6 +2,17 @@
 
 https://raw.githubusercontent.com/ivantapia882804/rasta12/main/prr.txt
 
+#EXTINF:-1, Black Panther Wakanda Forever 2022
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/13DIC/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Cuevana%203%20Pe.mp4
+
+#EXTINF:-1, Telemundo
+http://168.194.171.33:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="CENTROA", Telemundo
+http://190.61.102.67:8000/play/a03z
+#EXTINF:-1 group-title="CENTROA", Telemundo HD
+http://190.61.102.67:8000/play/a04t
+
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
 http://190.61.102.67:31589/play/a00g/index.m3u8
 
@@ -105,8 +116,7 @@ http://168.194.171.33:8000/play/a00d/index.m3u8
 http://168.194.171.33:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 7-TVpe
 http://168.194.171.33:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Telemundo
-http://168.194.171.33:8000/play/a01m/index.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Universal
 http://168.194.171.33:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WILLAX
@@ -455,10 +465,7 @@ http://190.61.102.67:8000/play/a04l
 http://190.61.102.67:8000/play/a03m
 #EXTINF:-1 group-title="CENTROA", Telecentro - RD
 http://190.61.102.67:8000/play/a01o
-#EXTINF:-1 group-title="CENTROA", Telemundo
-http://190.61.102.67:8000/play/a03z
-#EXTINF:-1 group-title="CENTROA", Telemundo HD
-http://190.61.102.67:8000/play/a04t
+
 #EXTINF:-1 group-title="CENTROA", Telesistema RD
 http://190.61.102.67:8000/play/a03o
 #EXTINF:-1 group-title="CENTROA", Teleunion - RD
