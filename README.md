@@ -513,10 +513,16 @@ http://190.61.102.67:8000/play/a05d
 http://190.61.102.67:8000/play/a01a
 #EXTINF:-1 group-title="XXX", Playboy HD
 http://45.232.211.196:1080/play/a055
+#EXTINF:-1 group-title="XXX", Playboy HD1
+
+#EXTINF:-1 group-title="XXX", Playboy HD2
+http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/20200
+#EXTINF:-1 group-title="XXX", Playboy 4k
+http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/47194
 #EXTINF:-1 group-title="XXX", Venus
-http://45.232.210.1:8062/play/a0ca/index.m3u8
+http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/20131
 #EXTINF:-1 tvg-id="Sextreme.mx" group-title="XXX", SEX XTREME
-http://189.203.160.152:10803/play/a09c/index.m3u8
+http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/20086
 #EXTINF:-1 group-title="XXX", VENUS
 http://190.61.102.67:8000/play/a02h
 #EXTINF:-1 group-title="CENTROA", VTV Canal 35 ESA
