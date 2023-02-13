@@ -513,7 +513,8 @@ http://190.61.102.67:8000/play/a05d
 http://190.61.102.67:8000/play/a01a
 #EXTINF:-1 group-title="XXX", Playboy HD
 http://45.232.211.196:1080/play/a055
-#EXTINF:-1 group-title="XXX", Playboy HD1
+#EXTINF:-1 group-title="XXX", Dorcel
+http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/20176
 
 #EXTINF:-1 group-title="XXX", Playboy HD2
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/20200
